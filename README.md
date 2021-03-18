@@ -4,6 +4,7 @@
 </p>
 
 > Using Volumetric segmentation methods for OARs or Organs at Risk Segmentation
+> For downloading the trained model please raise an issue
 
 ## Author
 
